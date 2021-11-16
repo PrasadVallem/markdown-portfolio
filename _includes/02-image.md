@@ -1,1 +1,1 @@
-![image of PrasadVallem] (https://github.com/PrasadVallem/markdown-portfolio/pull/3)
+![image of PrasadVallem] (https://octodex.github.com/images/PrasadVallem.png).
